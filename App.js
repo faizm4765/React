@@ -15,7 +15,7 @@ const parent = React.createElement('div',
         //passing sibling elements in array format
         [
             React.createElement('h1',{},"First nested react element"),
-            React.createElement('h1',{},"I am second nested element")
+            React.createElement('h1',{id:"second-child"},"I am second nested element")
         ]
     )
 )
