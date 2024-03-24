@@ -1,7 +1,7 @@
 /*
 <div id = "parent">
     <div id="child">
-        <h1></h1>
+        <h1>First nested react element</h1>
     </div>
 </div>
 */
