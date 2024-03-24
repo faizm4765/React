@@ -2,6 +2,7 @@
 <div id = "parent">
     <div id="child">
         <h1>First nested react element</h1>
+        <h1>Second nested react element</h1>
     </div>
 </div>
 */
@@ -13,7 +14,8 @@ const parent = React.createElement('div',
         React.createElement(
             'h1',
             {},
-            "First nested react element"
+            "First nested react element",
+            "Second element"
         )
     )
 )
