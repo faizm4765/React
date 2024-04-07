@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/faizm4765/React/issues"
   },
-  "homepage": "https://github.com/faizm4765/React#readme"
+  "homepage": "https://github.com/faizm4765/React#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
 }
