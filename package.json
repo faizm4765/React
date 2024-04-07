@@ -1,0 +1,22 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "React app",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faizm4765/React.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Faiz Mohammad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faizm4765/React/issues"
+  },
+  "homepage": "https://github.com/faizm4765/React#readme"
+}
