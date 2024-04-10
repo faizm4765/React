@@ -10,7 +10,7 @@ Note: There are two kinda of dependencies in any application- dev dependencies a
 
 Testing git interactive rebase cmd
 
-#Parcel [It is a beast🐻]
+# Parcel [It is a beast🐻]
  - Creates a dev build
  - Creates a local server
  - HMR- Hot Module Replacement
