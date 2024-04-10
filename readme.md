@@ -8,8 +8,6 @@ Even, create-react-app be default uses webpack as bundler. For now, in this appl
 
 Note: There are two kinda of dependencies in any application- dev dependencies and normal dependencies. Dev dependencies are only required for development mode while the latter is used in prod too. 
 
-Testing git interactive rebase cmd
-
 # Parcel [It is a beast🐻]
  - Creates a dev build
  - Creates a local server
