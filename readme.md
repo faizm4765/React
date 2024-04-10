@@ -17,3 +17,6 @@ Note: There are two kinda of dependencies in any application- dev dependencies a
  - Image Optimization
  - Minify and bundle code in production
  - Compress the code
+ - Implements Consistent hashing
+ - Performs code splitting
+ - Performs differential bundling to support older browsers
